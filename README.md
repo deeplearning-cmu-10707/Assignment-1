@@ -5,7 +5,7 @@ Use command unzip split_data.zip to get the splits for the file distributions.
 
 You will find 3 files - train.txt, val.txt and test.txt.
 
-train.txt - 10000 samples
+train.txt - 20000 samples
 val.txt - 5000 samples
 test.txt - 5000 samples
 
